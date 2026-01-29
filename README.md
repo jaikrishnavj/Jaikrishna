@@ -92,9 +92,9 @@ Experienced mobile application developer passionate about building scalable, rob
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jaikrishna&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=jaikrishnavj&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/Jaikrishna">Jaikrishna C</a></i>
+  <i>⭐️ From <a href="https://github.com/jaikrishnavj/Jaikrishna">Jaikrishna C</a></i>
 </div>
