@@ -62,15 +62,6 @@ Experienced mobile application developer passionate about building scalable, rob
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jaikrishna&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaikrishna&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 ### [LiquidGlass-Handbook](https://github.com/jaikrishnavj/LiquidGlass-Handbook)
